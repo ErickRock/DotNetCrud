@@ -6,6 +6,6 @@
 
 ## Verifique se foi instalado
 Execute o comando ```dotnet ef``` no terminal para verificar se foi instalado corretamente
-| ![space-1.jpg](/Assets/terminal1.png) |
+| ![terminal1.png](/Assets/terminal1.png) |
 |:--:|
 | <b>Essa tela indica que foi instalado com sucesso</b>|
